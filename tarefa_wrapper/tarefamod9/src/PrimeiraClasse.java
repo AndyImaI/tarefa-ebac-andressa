@@ -4,7 +4,7 @@ public class PrimeiraClasse {
 
         int i = 15;
 
-        int it = 25;
+        int it = 2;
 
         short s = 20;
 
@@ -23,7 +23,17 @@ public class PrimeiraClasse {
 
         float num1 = (float) i  / it ;
 
-        System.out.println(num1);
+
+        System.out.println("Divisão:  " + num1);
+
+        Integer tk = new Integer(1);
+        Boolean pk = new Boolean(null);
+        Double dd  = new Double(7.60);
+
+        System.out.println(dd.intValue());
+
+        
+
 
 
     }
