@@ -24,13 +24,19 @@ public class PrimeiraClasse {
         float num1 = (float) i  / it ;
 
 
-        System.out.println("Divisão:  " + num1);
+       // System.out.println("Divisão:  " + num1);
 
         Integer tk = new Integer(1);
         Boolean pk = new Boolean(null);
         Double dd  = new Double(7.60);
 
-        System.out.println(dd.intValue());
+       // System.out.println(dd.intValue());
+
+        float var1 =  (float) ((float) it + d);
+        
+        Float var2 = Float.valueOf(var1);
+
+        System.out.println((float) var2);
 
 
 
