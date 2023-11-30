@@ -12,7 +12,7 @@ public class PrimeiraClasse {
 
         boolean p = true;
 
-        double d = 40.4;
+        double d = 7.60;
 
         float f = 5f;
 
@@ -32,7 +32,7 @@ public class PrimeiraClasse {
 
         System.out.println(dd.intValue());
 
-        
+
 
 
 
